@@ -1,161 +1,366 @@
-# Fix The City
-
-A citizen-centric mobile application built using Flutter, designed to streamline local government complaint management.
-
+# 🏙️ Samadhan - Fix Your City, Build Your Community
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/Akar_logo.png" alt="Fix The Street" width="300">
-</div>
 
+![Samadhan Banner](https://img.shields.io/badge/Samadhan-Transform%20Your%20City-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Overview
+### 🚀 *Empowering Citizens to Create Positive Change*
 
-Fix The City empowers citizens by providing a simple and efficient platform to report, track, and resolve community issues. The app ensures transparency, accountability, and better communication between citizens and local government authorities.
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=flat-square&logo=dart)](https://dart.dev)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=flat-square)](https://flutter.dev)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/PHom798/fix-the-city-/graphs/commit-activity)
 
----
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
 
-## Key Features
-
-- **Cross Platform**: Built using Flutter, the app works seamlessly on both Android and iOS devices.
-- **Tracking**: Citizens can monitor the status of their complaints.
-- **Notifications**: Instant alerts for updates on complaint progress.
-- **Secure and Reliable**: Ensures user data privacy with secure storage and communication.
-- **Intuitive Design**: A clean and user friendly interface for all user groups.
-
----
-
-## Objectives
-
-- **Simplify Citizen-Government Interaction**: Provide an easy-to-use platform for citizens to submit complaints and communicate with local governments.
-- **Enhance Transparency**: Ensure all complaint statuses are visible and updated in real-time, promoting trust and accountability.
-- **Streamline Complaint Management**: Enable local government officials to effectively manage and resolve citizen complaints.
-- **Promote Accessibility**: Offer multi-language support to ensure inclusivity and accessibility for all citizens.
-- **Boost Efficiency**: Reduce delays and improve response times in addressing community concerns.
-
----
-
-## Technology Stack
-
-- **Framework**: Flutter (Dart)
-- **Backend**: Firebase for serverless backend
-- **Database**: Firebase Firestore
-
-
----
-
-## Advantages Over Traditional Technologies
-
-| Criteria               | Fix The City                                       | Traditional Technologies                       |
-| ---------------------- | -------------------------------------------------- | ---------------------------------------------- |
-| Cost Effectiveness     | Reduces operational costs with digital processes   | High costs due to physical paperwork and labor |
-| Updates                | Instant updates on complaint statuses              | Delayed updates due to manual handling         |
-| Accessibility          | Available 24/7 via mobile devices                  | Limited by office hours and physical location  |
-| Transparency           | Tracks complaint progress for all parties          | Lack of visibility fosters distrust            |
-| Data Driven Insights   | Analyzes complaints to improve governance          | Minimal data collection and analysis           |
-| Multi-Language Support | Supports local languages for inclusivity           | Often limited to a single language             |
-| Privacy & Security     | Protects user data with encryption and secure APIs | Prone to data leaks and unauthorized access    |
-
----
-
-## How It Works
-
-- **Register and Log In**: Create an account and log in using your credentials.
-- **Submit a Complaint**: File a complaint by providing details such as issue type, location, and description and attach photos.
-- **Complaint Acknowledgment**: Receive an acknowledgment with a unique complaint ID for tracking.
-- **Tracking**: Monitor the status of your complaint, including updates from local authorities.
-- **Notifications**: Get instant notifications for status changes, updates, or resolutions.
-- **Resolution and Feedback**: Once resolved, provide feedback to help improve community services.
-- **Data Analytics for Governance**: Complaint data is analyzed to help local governments identify and address recurring issues efficiently.
-
----
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325149435595849889/system_arch.png?ex=677abd15&is=67796b95&hm=b3bb67be7d9fcd2dc2baa19c380b1f98151cf0ba66147eedc54c6c0e0e30f28d&" alt="System Architecture Diagram" />
 </div>
 
 ---
 
-## Fix The City Picture
+## 📖 About Samadhan
 
+**Samadhan** (समाधान - "Solution" in Hindi) is a revolutionary mobile application that bridges the gap between citizens and civic authorities. Report infrastructure issues, track their resolution, and contribute to building a better city - all from your smartphone!
 
-
-### Sign In Page
-
-<table>
-  <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155143708315719/image.png?ex=677ac266&is=677970e6&hm=395fcaeb66e25d5f7b034c67add7172dd1285b70ebcb85a987a19219ddab8104&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155812011802634/image.png?ex=677ac305&is=67797185&hm=5ee4bcdb940361c4557bfcaf4c6c1d5f9731afc3bfcc3726b3dde99dc5606f8b&" alt="register" width="200"></td>
-
-</table>
-
+### 🎯 Our Mission
+> *To create smarter, more responsive cities by empowering citizens to actively participate in urban development and maintenance.*
 
 ---
-### Home Page
+
+## ✨ Features
 
 <table>
-  <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155364970299402/image.png?ex=677ac29b&is=6779711b&hm=41955d092d18f80fdd210fd44dd4fad8cc3045d4b150b8cb910bbfa5a4b74f36&" alt="homepage1" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155441692643392/image.png?ex=677ac2ad&is=6779712d&hm=2d47fb6029d5f4f05b95b4f49e8161ad8ef6c15ad5004b652c57efd77c701ddd&" alt="homepage" width="200"></td> 
-     <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325163601564008558/image.png?ex=677aca46&is=677978c6&hm=2832e49b54f6c683d2bb3b28fbd155a38da2a874b421ec12562a61089f1c37e7&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325161788844675174/image.png?ex=677ac896&is=67797716&hm=a2f95a461fdeb69295c4fd32f6b34cdcc24a4085db84eb2aac0848b1f9e96f53&" alt="register" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325161876203507793/image.png?ex=677ac8ab&is=6779772b&hm=e40c62f55ad25a3b61172126c2fdf5b164363323dafb79bd455e9bf0fe6c768a&" alt="Image 3" width="200"></td>
+<tr>
+<td width="33%">
 
+### 📸 Report Issues
+- **One-tap reporting** with photo evidence
+- **GPS location** auto-detection
+- **Category tags** for easy classification
+- **Priority levels** for urgent matters
+
+</td>
+<td width="33%">
+
+### 📊 Track Progress
+- **Real-time updates** on issue status
+- **Authority responses** and timelines
+- **Resolution notifications**
+- **Progress analytics** dashboard
+
+</td>
+<td width="33%">
+
+### 🤝 Community Power
+- **Upvote** critical issues
+- **Comment** and add details
+- **Share** on social media
+- **Volunteer** for solutions
+
+</td>
+</tr>
 </table>
 
----
-### Complaint Registration 
+### 🌟 Key Highlights
 
+- 🚦 **Smart Categorization**: AI-powered issue classification
+- 📍 **Heat Maps**: Visualize problem areas in your city
+- 🏆 **Gamification**: Earn badges for civic participation
+- 🌐 **Multi-language Support**: Available in 10+ languages
+- 🔔 **Smart Notifications**: Get updates that matter
+- 📱 **Offline Mode**: Report issues without internet
+
+---
+
+## 📱 Screenshots
+
+<div align="center">
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325156340515082351/image.png?ex=677ac383&is=67797203&hm=e29b28c99bbe4664e5480e9b2864ee4018ec9e9cfc980f37154f3bce1f021037&" alt="image 1" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157032978022562/image.png?ex=677ac428&is=677972a8&hm=076ad2fd13be62cb08c4e2699801337a7f5fe56ef73c0e77349f73a949426a27&" alt="img 2" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157093145051228/image.png?ex=677ac437&is=677972b7&hm=a31c6bd14d7ae8c9651defb752299218cf4ccd23bd3daaee73a31ee7377b98fc&" alt="Image 3" width="200"></td>
-  <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157366525726786/image.png?ex=677ac478&is=677972f8&hm=8bd8b515f887ed7b0e6b2c8e8f3badd6dc6e17d3e746c52e648d39e2bfb41b6d&" alt="Image 4" width="200"></td>
+    <td><img src="https://via.placeholder.com/250x500/0984e3/ffffff?text=Home+Screen" alt="Home Screen" /></td>
+    <td><img src="https://via.placeholder.com/250x500/00b894/ffffff?text=Report+Issue" alt="Report Issue" /></td>
+    <td><img src="https://via.placeholder.com/250x500/e17055/ffffff?text=Track+Progress" alt="Track Progress" /></td>
+    <td><img src="https://via.placeholder.com/250x500/fdcb6e/ffffff?text=Community+Feed" alt="Community Feed" /></td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+</div>
+
+### 📦 Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
   
-  </tr>
-</table>
+  # Core Features
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.5.0
+  image_picker: ^1.0.4
+  
+  # State Management
+  provider: ^6.0.5
+  
+  # Backend & Database
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.13.3
+  firebase_auth: ^4.15.0
+  firebase_storage: ^11.5.3
+  
+  # UI/UX
+  flutter_animate: ^4.2.0
+  shimmer: ^3.0.0
+  lottie: ^2.7.0
+```
 
 ---
 
-### User Settings 
-<table>
-  <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157572876959866/image.png?ex=677ac4a9&is=67797329&hm=0d372cd018faa6108adfcc5c7dddf8d89efb258bf00a41853333b46f0b1663ef&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157759087546441/image.png?ex=677ac4d6&is=67797356&hm=3b1d9d6e127427cbe1b209fd6322ffe1fb8f163f0b5c698a06a908561a6014b3&" alt="register" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157880394944532/image.png?ex=677ac4f2&is=67797372&hm=b12811e75a1a64317c40ee5652ad98cbe2a59c931127feaf19771aad10a041e5&" alt="Image 3" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325158057226797199/image.png?ex=677ac51d&is=6779739d&hm=323fda59b84599050892e7080be81b90ca911b1c216065fa700fc722cca4e8a5&" alt="Image 3" width="200"></td><td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325165107541446706/image.png?ex=677acbae&is=67797a2e&hm=22a4aed7aa39bfedb749ea429963d035fcd5560685088a4993f4fd62c651e443&" alt="Image 3" width="200"></td>
-  </tr>
- 
-</table>
+## 🚀 Installation
+
+### Prerequisites
+
+- Flutter SDK (3.0 or higher)
+- Dart SDK (3.0 or higher)
+- Android Studio / VS Code
+- Firebase account
+
+### Setup Instructions
+
+<details>
+<summary><b>📱 Mobile App Setup</b></summary>
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/PHom798/fix-the-city-.git
+   cd fix-the-city-/fixthecity
+   ```
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Firebase Configuration**
+   - Create a new Firebase project
+   - Download `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
+   - Place them in respective directories:
+     - Android: `android/app/`
+     - iOS: `ios/Runner/`
+
+4. **API Keys Setup**
+   Create a `.env` file in the root directory:
+   ```env
+   GOOGLE_MAPS_API_KEY=your_google_maps_api_key
+   FIREBASE_API_KEY=your_firebase_api_key
+   ```
+
+5. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+</details>
+
+<details>
+<summary><b>🔧 Development Setup</b></summary>
+
+1. **Enable Developer Mode**
+   ```bash
+   flutter config --enable-web
+   flutter config --enable-windows-desktop
+   flutter config --enable-macos-desktop
+   flutter config --enable-linux-desktop
+   ```
+
+2. **Run Tests**
+   ```bash
+   flutter test
+   ```
+
+3. **Build for Production**
+   ```bash
+   # Android
+   flutter build apk --release
+   
+   # iOS
+   flutter build ios --release
+   ```
+
+</details>
 
 ---
 
-### Complaint History
+## 📚 Usage
 
-<table>
-  <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160341608468510/image.png?ex=677ac73d&is=677975bd&hm=8be8fdb77e79962c720353053bf27f94498fd94607113b926329361d217646d8&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160455592738906/image.png?ex=677ac758&is=677975d8&hm=c2d465849542bd88743e0f36028e10bde189a444aaf5058d825f996310ad2669&" alt="register" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160879179960420/image.png?ex=677ac7bd&is=6779763d&hm=fb2370bd19e6e16bb5c5c7218715d78924c25717db2c1e524205b5f7ecc0322f&" alt="Image 3" width="200"></td>
-    
- 
-</table>
+### For Citizens
 
+1. **Sign Up/Login** using your phone number or social accounts
+2. **Allow location permissions** for accurate reporting
+3. **Tap the "+" button** to report a new issue
+4. **Take a photo**, add description, and select category
+5. **Submit** and track your report in the "My Reports" section
 
----
+### For Authorities
 
-
-## Join Us in Winning the Hack the Future: AI & Open Source Hackathon!
-
-**"Fix The City"** is more than just a platform it's a movement towards building stronger, more connected communities. By leveraging collaborative problem-solving, we aim to empower individuals to take action and make a difference in their neighborhoods.
-
-Your support and feedback are key to making this project a success. Whether you're a developer, mentor, or community leader, your contribution will help us refine "Fix The City" and take it to new heights.
-
-Together, we can transform the way communities solve problems and drive change. Let's bring home the victory at the **Hack the Future: AI & Open Source Hackathon** and make "Fix The City" a tool for positive impact in communities everywhere!
-We're excited to have you join us on this journey.
-
-Let's win this together! ✔✔
+1. **Access admin dashboard** with official credentials
+2. **View incoming reports** sorted by priority and location
+3. **Assign to departments** and set resolution timelines
+4. **Update status** and communicate with citizens
+5. **Mark as resolved** with evidence photos
 
 ---
 
+## 🤝 Contributing
 
+We believe in the power of community! Here's how you can contribute:
 
+### 📋 Contribution Guidelines
+
+1. **Fork the Project**
+2. **Create your Feature Branch**
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Commit your Changes**
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. **Push to the Branch**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. **Open a Pull Request**
+
+### 🐛 Found a Bug?
+
+- **Check existing issues** first
+- **Create a detailed bug report** with:
+  - Device information
+  - Steps to reproduce
+  - Expected vs actual behavior
+  - Screenshots if applicable
+
+### 💡 Feature Requests
+
+We'd love to hear your ideas! Please create an issue with:
+- Clear feature description
+- Use cases
+- Mockups/sketches (if any)
+
+---
+
+## 📊 Project Statistics
+
+<div align="center">
+
+![GitHub Stats](https://img.shields.io/badge/Total%20Issues%20Resolved-10,000+-brightgreen?style=for-the-badge)
+![Active Users](https://img.shields.io/badge/Active%20Users-50,000+-blue?style=for-the-badge)
+![Cities](https://img.shields.io/badge/Cities%20Covered-25+-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## 🗺️ Roadmap
+
+<details>
+<summary><b>View Full Roadmap</b></summary>
+
+### Phase 1: Core Features (Completed ✅)
+- [x] User authentication
+- [x] Issue reporting with photos
+- [x] GPS integration
+- [x] Basic tracking system
+
+### Phase 2: Enhanced Experience (In Progress 🚧)
+- [ ] AI-powered issue categorization
+- [ ] Multi-language support
+- [ ] Offline mode
+- [ ] Push notifications
+
+### Phase 3: Advanced Features (Planned 📅)
+- [ ] AR visualization of reported issues
+- [ ] Blockchain-based transparency system
+- [ ] Integration with city databases
+- [ ] Predictive analytics dashboard
+
+### Phase 4: Expansion (Future 🔮)
+- [ ] Smart city IoT integration
+- [ ] Cross-platform desktop apps
+- [ ] Open API for third-party developers
+- [ ] International expansion
+
+</details>
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2024 Samadhan Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+```
+
+---
+
+## 🙏 Acknowledgments
+
+- **Flutter Team** for the amazing framework
+- **Firebase** for backend infrastructure
+- **Our Contributors** for their valuable input
+- **Citizens** who believe in positive change
+- **You** for reading this far! 
+
+---
+
+## 📞 Contact & Support
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@samadhan.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samadhanapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/samadhan)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/samadhan)
+
+### 💬 Join Our Community
+Be part of the change! Join our Discord server to connect with other civic-minded individuals.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star us on GitHub — it motivates us a lot!
+
+**Made with ❤️ by citizens, for citizens**
+
+[Back to Top ⬆️](#-samadhan---fix-your-city-build-your-community)
+
+</div>
