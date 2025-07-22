@@ -76,7 +76,7 @@
 
 </div>
 
-**Samadhan** (समाधान - "Solution" in Hindi) is a revolutionary mobile application that bridges the gap between citizens and civic authorities. Report infrastructure issues, track their resolution, and contribute to building a better city - all from your smartphone!
+**Samadhan** (समाधान) is a revolutionary mobile application that bridges the gap between citizens and civic authorities. Report infrastructure issues, track their resolution, and contribute to building a better city - all from your smartphone!
 
 ### 🎯 Our Mission
 > *To create smarter, more responsive cities by empowering citizens to actively participate in urban development and maintenance.*
