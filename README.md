@@ -1,15 +1,14 @@
 # 🏙️ Samadhan - Fix Your City, Build Your Community
 
 <div align="center">
-
-```
+<pre align="center">
 ███████╗██╗██╗  ██╗    ████████╗██╗  ██╗███████╗     ██████╗██╗████████╗██╗   ██╗
 ██╔════╝██║╚██╗██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║╚══██╔══╝╚██╗ ██╔╝
 █████╗  ██║ ╚███╔╝        ██║   ███████║█████╗      ██║     ██║   ██║    ╚████╔╝ 
 ██╔══╝  ██║ ██╔██╗        ██║   ██╔══██║██╔══╝      ██║     ██║   ██║     ╚██╔╝  
 ██║     ██║██╔╝ ██╗       ██║   ██║  ██║███████╗    ╚██████╗██║   ██║      ██║   
 ╚═╝     ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝╚═╝   ╚═╝      ╚═╝   
-```
+</pre>
 
 <h1 align="center">
   <br>
@@ -23,13 +22,17 @@
 
 ### 🚀 *Empowering Citizens to Create Positive Change*
 
-```diff
-+ Report Issues 📸  Track Progress 📊  Build Community 🤝
-```
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Welcome+to+SAMADHAN!;Fix+Your+City+with+One+Tap;Be+the+Change+You+Want+to+See;Join+50%2C000%2B+Active+Citizens" alt="Typing SVG" />
+
+<br>
+
+### 📱 Download Our App
+
+<a href="https://github.com/PHom798/fix-the-city-/releases/download/v1.0.0/samadhan.apk">
+  <img src="https://img.shields.io/badge/Download%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" width="250">
+</a>
 
 <br>
 
