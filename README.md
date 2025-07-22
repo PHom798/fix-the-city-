@@ -1,9 +1,37 @@
 # 🏙️ Samadhan - Fix Your City, Build Your Community
+
 <div align="center">
+
+```
+███████╗██╗██╗  ██╗    ████████╗██╗  ██╗███████╗     ██████╗██╗████████╗██╗   ██╗
+██╔════╝██║╚██╗██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║╚══██╔══╝╚██╗ ██╔╝
+█████╗  ██║ ╚███╔╝        ██║   ███████║█████╗      ██║     ██║   ██║    ╚████╔╝ 
+██╔══╝  ██║ ██╔██╗        ██║   ██╔══██║██╔══╝      ██║     ██║   ██║     ╚██╔╝  
+██║     ██║██╔╝ ██╗       ██║   ██║  ██║███████╗    ╚██████╗██║   ██║      ██║   
+╚═╝     ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝╚═╝   ╚═╝      ╚═╝   
+```
+
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/🏗️_SAMADHAN-Fix_Your_City-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" alt="Samadhan" width="500"></a>
+  <br>
+  <span style="color: #4ECDC4;">समाधान</span> - Your City, Your Solution
+  <br>
+</h1>
 
 ![Samadhan Banner](https://img.shields.io/badge/Samadhan-Transform%20Your%20City-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🚀 *Empowering Citizens to Create Positive Change*
+
+```diff
++ Report Issues 📸  Track Progress 📊  Build Community 🤝
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Welcome+to+SAMADHAN!;Fix+Your+City+with+One+Tap;Be+the+Change+You+Want+to+See;Join+50%2C000%2B+Active+Citizens" alt="Typing SVG" />
+
+<br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=flat-square&logo=dart)](https://dart.dev)
@@ -27,6 +55,24 @@
 
 ## 📖 About Samadhan
 
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗ ║
+║   ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║  ██║██╔══██╗████╗  ██║ ║
+║   ███████╗███████║██╔████╔██║███████║██║  ██║███████║███████║██╔██╗ ██║ ║
+║   ╚════██║██╔══██║██║╚██╔╝██║██╔══██║██║  ██║██╔══██║██╔══██║██║╚██╗██║ ║
+║   ███████║██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║██║  ██║██║ ╚████║ ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ║
+║                                                               ║
+║              🏙️  Your City • Your Voice • Your Solution  🏙️              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 **Samadhan** (समाधान - "Solution" in Hindi) is a revolutionary mobile application that bridges the gap between citizens and civic authorities. Report infrastructure issues, track their resolution, and contribute to building a better city - all from your smartphone!
 
 ### 🎯 Our Mission
@@ -35,6 +81,18 @@
 ---
 
 ## ✨ Features
+
+<div align="center">
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░█▀▀░█░█░█░░▀█▀░█░█░█▀▀░░░█▀▀░█░▀█▀░█░█░░░█▀▀░█▀█░█░░░█░█░▀█▀░█░█▀█░█▀█░░
+░░█▀░░██░░█░░░█░░█▀█░█▀░░░░█░░░█░░█░░░█░░░░▀▀█░█░█░█░░░█░█░░█░░█░█░█░█░█░░
+░░▀░░░▀░▀░▀░░░▀░░▀░▀░▀▀▀░░░▀▀▀░▀░░▀░░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░▀░░▀░▀▀▀░▀░▀░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
 
 <table>
 <tr>
@@ -357,9 +415,21 @@ Be part of the change! Join our Discord server to connect with other civic-minde
 
 <div align="center">
 
+<div align="center">
+
 ### ⭐ Star us on GitHub — it motivates us a lot!
 
+```
+     ██████  █████  ███    ███  █████  ██████  ██   ██  █████  ███    ██ 
+    ██      ██   ██ ████  ████ ██   ██ ██   ██ ██   ██ ██   ██ ████   ██ 
+    ███████ ███████ ██ ████ ██ ███████ ██   ██ ███████ ███████ ██ ██  ██ 
+         ██ ██   ██ ██  ██  ██ ██   ██ ██   ██ ██   ██ ██   ██ ██  ██ ██ 
+    ██████  ██   ██ ██      ██ ██   ██ ██████  ██   ██ ██   ██ ██   ████ 
+```
+
 **Made with ❤️ by citizens, for citizens**
+
+<img src="https://img.shields.io/badge/Together_We_Can-Fix_The_City-gradient?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIxLjAyTDEyIDE3Ljc3TDUuODIgMjEuMDJMNyAxNC4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPg==" width="500">
 
 [Back to Top ⬆️](#-samadhan---fix-your-city-build-your-community)
 
