@@ -136,6 +136,20 @@ Two-step verification to prevent fake complaints:
    
 Only verified users can submit complaints.
 
+## 📸 Key shots
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="shots/image4.png" alt="Welcome Screen" width="200"/></td>
+      <td><img src="shots/image2.png" alt="Features Screen" width="200"/></td>
+      <td><img src="shots/image.png" alt="Analytics Screen" width="200"/></td>
+      <td><img src="shots/image3.png" alt="Security Screen" width="200"/></td>
+      <td><img src="shots/image1.png" alt="Get Started Screen" width="200"/></td>
+    </tr>
+  </table>
+</div>
+
 #### 📰 **Additional Features**
 - **News Section:** Stay updated with local community news and announcements
 - **Emergency Contacts:** Quick access to police, ambulance, fire department, municipality
