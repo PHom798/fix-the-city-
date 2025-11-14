@@ -490,7 +490,7 @@ If you find **Fix-The-City** useful, please consider giving it a star ⭐
 
 ---
 
-Made with ❤️ and ☕ by [Your Name]
+Made with ❤️ and ☕ by Us
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
