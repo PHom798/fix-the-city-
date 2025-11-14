@@ -81,13 +81,13 @@ Traditional complaint submission systems are plagued with:
 
 ---
 
-## 📸 Screenshots
+## 📸 Shots
 
 <div align="left">
   <table>
     <tr>
-      <td><img src="shots/imagea.png" alt="Colorful QR Example 1"  style="width: 500px; height:400px;" /></td>
-      <td><img src="shots/imageb.png" alt="Colorful QR Example 2"  style="width: 500px; height:400px;"/></td>
+      <td><img src="shots/imagea.png" alt="Colorful QR Example 1"  width="600" /></td>
+      <td><img src="shots/imageb.png" alt="Colorful QR Example 2"  width="600" /></td>
     </tr>
   </table>
 </div>
