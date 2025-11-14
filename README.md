@@ -143,8 +143,8 @@ Only verified users can submit complaints.
     <tr>
       <td><img src="shots/image5.jpg" alt="Welcome Screen" width="200"/></td>
       <td><img src="shots/image9.jpg" alt="Features Screen" width="200"/></td>
-      <td><img src="shots/image8.jpg" alt="Analytics Screen" width="200"/></td>
-      <td><img src="shots/image11.jpg" alt="Security Screen" width="200"/></td>
+      <td><img src="shots/image11.jpg" alt="Analytics Screen" width="200"/></td>
+      <td><img src="shots/image10.jpg" alt="Security Screen" width="200"/></td>
     </tr>
   </table>
 </div>
