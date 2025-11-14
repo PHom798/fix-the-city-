@@ -141,11 +141,10 @@ Only verified users can submit complaints.
 <div align="left">
   <table>
     <tr>
-      <td><img src="shots/image4.png" alt="Welcome Screen" width="200"/></td>
-      <td><img src="shots/image2.png" alt="Features Screen" width="200"/></td>
-      <td><img src="shots/image.png" alt="Analytics Screen" width="200"/></td>
-      <td><img src="shots/image3.png" alt="Security Screen" width="200"/></td>
-      <td><img src="shots/image1.png" alt="Get Started Screen" width="200"/></td>
+      <td><img src="shots/image5.jpg" alt="Welcome Screen" width="200"/></td>
+      <td><img src="shots/image9.jpg" alt="Features Screen" width="200"/></td>
+      <td><img src="shots/image8.jpg" alt="Analytics Screen" width="200"/></td>
+      <td><img src="shots/image11.jpg" alt="Security Screen" width="200"/></td>
     </tr>
   </table>
 </div>
