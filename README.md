@@ -50,15 +50,14 @@
 ---
 
 ## 🌟 Overview
+**Fix-The-City** is a cutting-edge mobile application that revolutionizes civic engagement by enabling citizens to report community issues efficiently. Leveraging the power of artificial intelligence and real-time processing, the app bridges the gap between citizens and municipal authorities, ensuring faster resolution of infrastructure problems.
 <div align="center">
   
   
-  *Test your connection with elegance and precision*
-  <video src="https://github.com/user-attachments/assets/564fd526-6043-4783-bc1e-7f931aae4aa1" controls width="100%" ></video>
+  <video src="https://github.com/user-attachments/assets/a159f745-89fc-483a-9c87-bfbca92a7178" controls width="100%" ></video>
 
     
 </div>
-**Fix-The-City** is a cutting-edge mobile application that revolutionizes civic engagement by enabling citizens to report community issues efficiently. Leveraging the power of artificial intelligence and real-time processing, the app bridges the gap between citizens and municipal authorities, ensuring faster resolution of infrastructure problems.
 
 ### 🎓 Final Year Project
 **Project Name:** AI-Enhanced Smart Community Complaint Application  
