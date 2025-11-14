@@ -1,380 +1,444 @@
-# 🏙️ Samadhan - Fix Your City, Build Your Community
-
 <div align="center">
-<pre align="center">
-███████╗██╗██╗  ██╗    ████████╗██╗  ██╗███████╗     ██████╗██╗████████╗██╗   ██╗
-██╔════╝██║╚██╗██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║╚══██╔══╝╚██╗ ██╔╝
-█████╗  ██║ ╚███╔╝        ██║   ███████║█████╗      ██║     ██║   ██║    ╚████╔╝ 
-██╔══╝  ██║ ██╔██╗        ██║   ██╔══██║██╔══╝      ██║     ██║   ██║     ╚██╔╝  
-██║     ██║██╔╝ ██╗       ██║   ██║  ██║███████╗    ╚██████╗██║   ██║      ██║   
-╚═╝     ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝╚═╝   ╚═╝      ╚═╝   
-</pre>
 
-<h1 align="center">
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/🏗️_SAMADHAN-Fix_Your_City-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white" alt="Samadhan" width="500"></a>
-  <br>
-  <span style="color: #4ECDC4;">समाधान</span> - Your City, Your Solution
-  <br>
-</h1>
+# 🏙️ Fix-The-City
 
-![Samadhan Banner](https://img.shields.io/badge/Samadhan-Transform%20Your%20City-blue?style=for-the-badge&logo=flutter&logoColor=white)
+### AI-Enhanced Smart Community Complaint Application
 
-### 🚀 *Empowering Citizens to Create Positive Change*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Transform+Your+Community+with+AI;Report+Issues+in+Seconds;Real-Time+Problem+Detection;Be+the+Voice+of+Change" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Welcome+to+SAMADHAN!;Fix+Your+City+with+One+Tap;Be+the+Change+You+Want+to+See;Join+50%2C000%2B+Active+Citizens" alt="Typing SVG" />
+[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Powered by Dart](https://img.shields.io/badge/Powered%20by-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
 
 <br>
 
-### 📱 Download Our App
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/status-Active-success?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey?style=flat-square)
 
-<a href="https://github.com/PHom798/fix-the-city-/releases/download/v1.0.0/samadhan.apk">
-  <img src="https://img.shields.io/badge/Download%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" width="250">
-</a>
+---
 
-<br>
-
-[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=flat-square&logo=dart)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=flat-square)](https://flutter.dev)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/PHom798/fix-the-city-/graphs/commit-activity)
-
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-contributing">Contributing</a>
-</p>
+### 🎯 Empowering Citizens to Build Better Communities Through Technology
 
 </div>
 
 ---
 
-## 📖 About Samadhan
+## 📋 Table of Contents
 
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Key Features](#-key-features)
+- [AI Integration](#-ai-integration)
+- [Technology Stack](#-technology-stack)
+- [System Architecture](#-system-architecture)
+- [User Journey](#-user-journey)
+- [Admin Dashboard](#-admin-dashboard)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
+## 🌟 Overview
+
+**Fix-The-City** is a cutting-edge mobile application that revolutionizes civic engagement by enabling citizens to report community issues efficiently. Leveraging the power of artificial intelligence and real-time processing, the app bridges the gap between citizens and municipal authorities, ensuring faster resolution of infrastructure problems.
+
+### 🎓 Final Year Project
+**Project Name:** AI-Enhanced Smart Community Complaint Application  
+**Application Name:** Fix-The-City  
+**Domain:** Smart City Solutions | AI/ML | Mobile Application Development
+
+---
+
+## 🔥 Problem Statement
+
+Traditional complaint submission systems are plagued with:
+
+- ❌ Lengthy bureaucratic processes
+- ❌ Lack of real-time tracking and transparency
+- ❌ Manual verification and classification delays
+- ❌ Poor communication between citizens and authorities
+- ❌ Difficulty in prioritizing urgent issues
+- ❌ Limited citizen engagement and accountability
+
+**Fix-The-City** eliminates these challenges through intelligent automation, real-time updates, and community-driven problem-solving.
+
+---
+
+## ✨ Key Features
+
+### 👤 **User Features**
+
+#### 🎨 **Intuitive Dashboard**
+- **At-a-Glance Metrics:** View total reported issues, in-progress complaints, and resolved cases
+- **Visual Analytics:** Beautiful charts and statistics for community impact
+- **Quick Actions:** Fast access to submit new complaints or view recent activities
+
+#### 📱 **Dual Reporting Modes**
+- **Basic Mode:** Manual entry with image upload
+- **Advanced Mode (AI-Powered):** Upload image → Auto-detection → Auto-generated report
+  - Instant problem classification
+  - Automatic severity assessment
+  - Location tagging with GPS integration
+
+#### 🗂️ **Comprehensive Complaint History**
+- **Status Indicators:** Resolved, In Progress, Pending
+- **Detailed Information:** Ticket number, submission date/time, ETA
+- **Priority Levels:** High (Red), Medium (Orange), Low (Green)
+- **Withdraw Option:** Cancel complaints before processing
+
+#### 📍 **Advanced Complaint Tracking**
+- **Full Timeline View:** Track every status update from submission to resolution
+- **Category Classification:** Potholes, cracks, open manholes, traffic lights, waste containers, stray animals
+- **Location Mapping:** Interactive maps showing exact problem locations
+- **Photo Documentation:** Before and after images of reported issues
+
+#### 🌐 **Community Feed (Social Feature)**
+- **Real-Time Updates:** See complaints submitted by fellow citizens (displayed as "Anonymous User")
+- **Engagement Tools:** Like, comment, and share complaints on social platforms
+- **Community Awareness:** Foster collective responsibility and civic participation
+- **Viral Potential:** Share urgent issues to gain quick attention
+
+#### 🔐 **Robust Verification System**
+Two-step verification to prevent fake complaints:
+1. **General Details:** Name, contact information, address
+2. **Official Document Verification:**
+   - Adults: Government-issued citizenship card
+   - Minors: School ID card
+   
+Only verified users can submit complaints.
+
+#### 📰 **Additional Features**
+- **News Section:** Stay updated with local community news and announcements
+- **Emergency Contacts:** Quick access to police, ambulance, fire department, municipality
+- **Feedback System:** Rate and review complaint resolution quality
+
+---
+
+### 🔧 **Admin Features**
+
+#### 📊 **Comprehensive Dashboard**
+- **Priority Queue:** High-priority complaints highlighted at the top
+- **Status Overview:** Pending, in-progress, and resolved complaint counts
+- **Analytics:** Graphical representation of complaint trends and resolution rates
+
+#### 🛠️ **Complaint Management**
+- **Detailed Review:** Access to all complaint details including images, location, and user information
+- **Status Updates:** 
+  - Task Assigned
+  - Staff On-Site
+  - In Progress
+  - Resolved
+  - Withdrawn
+  - Custom Notes
+- **Location Verification:** Integrated map view to verify exact problem locations
+- **Priority Assignment:** Set urgency levels for efficient resource allocation
+
+#### 👥 **User Management**
+- **Real-Time Statistics:** Total users, verified users, pending verifications
+- **Verification Review:** Approve or reject user verification documents
+- **User Details:** Access to user profiles, complaint history, and engagement metrics
+
+#### 💬 **Feedback & Reviews**
+- **User Feedback:** View and respond to citizen feedback
+- **Performance Monitoring:** Track resolution times and user satisfaction
+- **Quality Assurance:** Ensure timely and effective problem resolution
+
+---
+
+## 🤖 AI Integration
+
+### **Custom YOLOv5 Object Detection Model**
+
+At the heart of Fix-The-City's intelligence lies a **custom-trained YOLOv5 deep learning model** that revolutionizes complaint processing.
+
+#### 🎯 **Capabilities**
+- **Real-Time Detection:** Instantly identify infrastructure problems in uploaded images
+- **Multi-Class Classification:** Detect and classify:
+  - 🕳️ Potholes
+  - 🔨 Road cracks
+  - 🚧 Open manholes
+  - 🚦 Malfunctioning traffic lights
+  - 🗑️ Overflowing waste containers
+  - 🐕 Stray animals
+
+#### ⚡ **Workflow**
+1. User uploads an image through the app
+2. Image is processed by the YOLOv5 model
+3. AI detects and highlights all problems in the image
+4. Automatic classification and severity assessment
+5. Pre-filled complaint form generated
+6. User reviews and submits with one tap
+
+#### 🎓 **Model Training**
+- Trained on thousands of labeled community issue images
+- Continuous learning from new submissions
+- High accuracy and precision rates
+- Optimized for mobile deployment
+
+#### 💡 **Benefits**
+- ✅ 10x faster complaint submission
+- ✅ Reduced human error in classification
+- ✅ Automated priority assignment
+- ✅ Enhanced data quality for authorities
+- ✅ Improved response times
+
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
-<pre align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗ ║
-║   ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║  ██║██╔══██╗████╗  ██║ ║
-║   ███████╗███████║██╔████╔██║███████║██║  ██║███████║███████║██╔██╗ ██║ ║
-║   ╚════██║██╔══██║██║╚██╔╝██║██╔══██║██║  ██║██╔══██║██╔══██║██║╚██╗██║ ║
-║   ███████║██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║██║  ██║██║ ╚████║ ║
-║   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ║
-║                                                               ║
-║              🏙️  Your City • Your Voice • Your Solution  🏙️             
-╚═══════════════════════════════════════════════════════════════╝
+### **Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-```
-</pre>
+### **Backend & Database**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### **AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### **Additional Services**
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-**Samadhan** (समाधान) is a revolutionary mobile application that bridges the gap between citizens and civic authorities. Report infrastructure issues, track their resolution, and contribute to building a better city - all from your smartphone!
+---
 
-### 🎯 Our Mission
-> *To create smarter, more responsive cities by empowering citizens to actively participate in urban development and maintenance.*
+## 🏗️ System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      FLUTTER MOBILE APP                      │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
+│  │ User Module  │  │ Admin Module │  │   AI Module  │      │
+│  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘      │
+│         │                  │                  │              │
+└─────────┼──────────────────┼──────────────────┼──────────────┘
+          │                  │                  │
+          ▼                  ▼                  ▼
+┌─────────────────────────────────────────────────────────────┐
+│                      FIREBASE BACKEND                        │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
+│  │ Authentication│  │  Firestore   │  │Cloud Storage │      │
+│  └──────────────┘  └──────────────┘  └──────────────┘      │
+└─────────────────────────────────────────────────────────────┘
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             ▼
+┌─────────────────────────────────────────────────────────────┐
+│                  PYTHON AI SERVICE (YOLOv5)                  │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
+│  │Image Processing│ │ Detection   │  │Classification│      │
+│  └──────────────┘  └──────────────┘  └──────────────┘      │
+└─────────────────────────────────────────────────────────────┘
+          │
+          ▼
+┌─────────────────────────────────────────────────────────────┐
+│              EXTERNAL SERVICES & APIs                        │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
+│  │ Google Maps  │  │ Location GPS │  │ Social Share │      │
+│  └──────────────┘  └──────────────┘  └──────────────┘      │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ✨ Features
+## 🚀 User Journey
+
+### **1️⃣ Registration & Verification**
+```
+Sign Up → Enter Details → Submit ID Document → Wait for Admin Approval → Account Activated
+```
+
+### **2️⃣ Submitting a Complaint**
+```
+Dashboard → New Complaint → Choose Mode (Basic/Advanced)
+                                    ↓
+                          Upload Image → AI Detection
+                                    ↓
+                          Review Auto-Generated Report
+                                    ↓
+                          Add Description (Optional)
+                                    ↓
+                          Confirm Location → Submit
+```
+
+### **3️⃣ Tracking & Engagement**
+```
+Complaint Submitted → Receive Ticket Number → Track Progress
+                                    ↓
+            Task Assigned → Staff On-Site → In Progress → Resolved
+                                    ↓
+                          Receive Notification → Rate Experience
+```
+
+---
+
+## 🎛️ Admin Dashboard
+
+### **Key Responsibilities**
+
+#### 📥 **Complaint Review**
+- Verify complaint authenticity
+- Check location accuracy
+- Review photographic evidence
+- Assess severity and priority
+
+#### 📤 **Status Management**
+- Assign tasks to field staff
+- Update complaint status in real-time
+- Add custom notes and instructions
+- Mark complaints as resolved
+
+#### ✅ **User Verification**
+- Review submitted ID documents
+- Approve or reject verification requests
+- Manage user access and permissions
+
+#### 📈 **Analytics & Reporting**
+- Generate reports on complaint trends
+- Monitor resolution times
+- Track user engagement metrics
+- Identify problem hotspots
+
+---
+
+## 📸 Screenshots
 
 <div align="center">
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░█▀▀░█░█░█░░▀█▀░█░█░█▀▀░░░█▀▀░█░▀█▀░█░█░░░█▀▀░█▀█░█░░░█░█░▀█▀░█░█▀█░█▀█░░
-░░█▀░░██░░█░░░█░░█▀█░█▀░░░░█░░░█░░█░░░█░░░░▀▀█░█░█░█░░░█░█░░█░░█░█░█░█░█░░
-░░▀░░░▀░▀░▀░░░▀░░▀░▀░▀▀▀░░░▀▀▀░▀░░▀░░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░▀░░▀░▀▀▀░▀░▀░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+### **User Interface**
 
-</div>
+| Splash Screen | Login | Dashboard |
+|:---:|:---:|:---:|
+| ![Splash](https://via.placeholder.com/250x500/2196F3/FFFFFF?text=Splash+Screen) | ![Login](https://via.placeholder.com/250x500/4CAF50/FFFFFF?text=Login) | ![Dashboard](https://via.placeholder.com/250x500/FF9800/FFFFFF?text=Dashboard) |
 
-<table>
-<tr>
-<td width="33%">
+| Submit Complaint | AI Detection | Tracking |
+|:---:|:---:|:---:|
+| ![Submit](https://via.placeholder.com/250x500/9C27B0/FFFFFF?text=Submit) | ![AI](https://via.placeholder.com/250x500/F44336/FFFFFF?text=AI+Detection) | ![Track](https://via.placeholder.com/250x500/00BCD4/FFFFFF?text=Tracking) |
 
-### 📸 Report Issues
-- **One-tap reporting** with photo evidence
-- **GPS location** auto-detection
-- **Category tags** for easy classification
-- **Priority levels** for urgent matters
+### **Admin Interface**
 
-</td>
-<td width="33%">
+| Admin Dashboard | Complaint Management | User Verification |
+|:---:|:---:|:---:|
+| ![Admin](https://via.placeholder.com/250x500/3F51B5/FFFFFF?text=Admin+Dashboard) | ![Manage](https://via.placeholder.com/250x500/009688/FFFFFF?text=Manage) | ![Verify](https://via.placeholder.com/250x500/FF5722/FFFFFF?text=Verify) |
 
-### 📊 Track Progress
-- **Real-time updates** on issue status
-- **Authority responses** and timelines
-- **Resolution notifications**
-- **Progress analytics** dashboard
-
-</td>
-<td width="33%">
-
-### 🤝 Community Power
-- **Upvote** critical issues
-- **Comment** and add details
-- **Share** on social media
-- **Volunteer** for solutions
-
-</td>
-</tr>
-</table>
-
-### 🌟 Key Highlights
-
-- 🚦 **Smart Categorization**: AI-powered issue classification
-- 📍 **Heat Maps**: Visualize problem areas in your city
-- 🏆 **Gamification**: Earn badges for civic participation
-- 🌐 **Multi-language Support**: Available in 10+ languages
-- 🔔 **Smart Notifications**: Get updates that matter
-- 📱 **Offline Mode**: Report issues without internet
-
----
-
-## 📱 Screenshots
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/250x500/0984e3/ffffff?text=Home+Screen" alt="Home Screen" /></td>
-    <td><img src="https://via.placeholder.com/250x500/00b894/ffffff?text=Report+Issue" alt="Report Issue" /></td>
-    <td><img src="https://via.placeholder.com/250x500/e17055/ffffff?text=Track+Progress" alt="Track Progress" /></td>
-    <td><img src="https://via.placeholder.com/250x500/fdcb6e/ffffff?text=Community+Feed" alt="Community Feed" /></td>
-  </tr>
-</table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Installation
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-
-</div>
-
-### 📦 Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  
-  # Core Features
-  geolocator: ^9.0.2
-  google_maps_flutter: ^2.5.0
-  image_picker: ^1.0.4
-  
-  # State Management
-  provider: ^6.0.5
-  
-  # Backend & Database
-  firebase_core: ^2.24.0
-  cloud_firestore: ^4.13.3
-  firebase_auth: ^4.15.0
-  firebase_storage: ^11.5.3
-  
-  # UI/UX
-  flutter_animate: ^4.2.0
-  shimmer: ^3.0.0
-  lottie: ^2.7.0
-```
-
----
-
-## 🚀 Installation
-
-### Prerequisites
-
-- Flutter SDK (3.0 or higher)
-- Dart SDK (3.0 or higher)
+### **Prerequisites**
+- Flutter SDK (v3.0+)
+- Dart SDK (v2.17+)
 - Android Studio / VS Code
 - Firebase account
+- Python 3.8+ (for AI service)
 
-### Setup Instructions
+### **Clone Repository**
+```bash
+git clone https://github.com/yourusername/fix-the-city.git
+cd fix-the-city
+```
 
-<details>
-<summary><b>📱 Mobile App Setup</b></summary>
+### **Install Dependencies**
+```bash
+flutter pub get
+```
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/PHom798/fix-the-city-.git
-   cd fix-the-city-/fixthecity
-   ```
+### **Firebase Setup**
+1. Create a new Firebase project
+2. Add Android and iOS apps to your Firebase project
+3. Download `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
+4. Place configuration files in respective directories
 
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
+### **Python AI Service Setup**
+```bash
+cd ai-service
+pip install -r requirements.txt
+python app.py
+```
 
-3. **Firebase Configuration**
-   - Create a new Firebase project
-   - Download `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
-   - Place them in respective directories:
-     - Android: `android/app/`
-     - iOS: `ios/Runner/`
-
-4. **API Keys Setup**
-   Create a `.env` file in the root directory:
-   ```env
-   GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-   FIREBASE_API_KEY=your_firebase_api_key
-   ```
-
-5. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-</details>
-
-<details>
-<summary><b>🔧 Development Setup</b></summary>
-
-1. **Enable Developer Mode**
-   ```bash
-   flutter config --enable-web
-   flutter config --enable-windows-desktop
-   flutter config --enable-macos-desktop
-   flutter config --enable-linux-desktop
-   ```
-
-2. **Run Tests**
-   ```bash
-   flutter test
-   ```
-
-3. **Build for Production**
-   ```bash
-   # Android
-   flutter build apk --release
-   
-   # iOS
-   flutter build ios --release
-   ```
-
-</details>
+### **Run Application**
+```bash
+flutter run
+```
 
 ---
 
-## 📚 Usage
+## 📖 Usage
 
-### For Citizens
+### **For Citizens**
 
-1. **Sign Up/Login** using your phone number or social accounts
-2. **Allow location permissions** for accurate reporting
-3. **Tap the "+" button** to report a new issue
-4. **Take a photo**, add description, and select category
-5. **Submit** and track your report in the "My Reports" section
+1. **Download & Register:** Install the app and complete verification
+2. **Report Issues:** Use basic or AI-powered mode to submit complaints
+3. **Track Progress:** Monitor your complaint status in real-time
+4. **Engage:** View community feed, like and share issues
+5. **Stay Informed:** Access news and emergency contacts
 
-### For Authorities
+### **For Administrators**
 
-1. **Access admin dashboard** with official credentials
-2. **View incoming reports** sorted by priority and location
-3. **Assign to departments** and set resolution timelines
-4. **Update status** and communicate with citizens
-5. **Mark as resolved** with evidence photos
+1. **Login to Admin Panel:** Access the dedicated admin interface
+2. **Review Complaints:** Prioritize and assign tasks
+3. **Manage Users:** Verify new user registrations
+4. **Update Status:** Keep citizens informed with real-time updates
+5. **Generate Reports:** Analyze trends and optimize resources
+
+---
+
+## 🔮 Future Enhancements
+
+- [ ] **Multilingual Support:** Add support for regional languages
+- [ ] **Voice Commands:** Report issues using voice input
+- [ ] **Gamification:** Reward active citizens with badges and points
+- [ ] **Advanced Analytics:** Predictive maintenance using historical data
+- [ ] **AR Integration:** Visualize infrastructure issues in augmented reality
+- [ ] **Chatbot Support:** AI-powered virtual assistant for user queries
+- [ ] **Dark Mode:** Enhanced UI with dark theme option
+- [ ] **Offline Mode:** Submit complaints without internet (sync later)
+- [ ] **IoT Integration:** Connect with smart city sensors for automated detection
 
 ---
 
 ## 🤝 Contributing
 
-We believe in the power of community! Here's how you can contribute:
+We welcome contributions from the community! Here's how you can help:
 
-### 📋 Contribution Guidelines
-
-1. **Fork the Project**
-2. **Create your Feature Branch**
+1. **Fork the Repository**
+2. **Create a Feature Branch**
    ```bash
    git checkout -b feature/AmazingFeature
    ```
-3. **Commit your Changes**
+3. **Commit Your Changes**
    ```bash
    git commit -m 'Add some AmazingFeature'
    ```
-4. **Push to the Branch**
+4. **Push to Branch**
    ```bash
    git push origin feature/AmazingFeature
    ```
 5. **Open a Pull Request**
 
-### 🐛 Found a Bug?
-
-- **Check existing issues** first
-- **Create a detailed bug report** with:
-  - Device information
-  - Steps to reproduce
-  - Expected vs actual behavior
-  - Screenshots if applicable
-
-### 💡 Feature Requests
-
-We'd love to hear your ideas! Please create an issue with:
-- Clear feature description
-- Use cases
-- Mockups/sketches (if any)
-
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/Total%20Issues%20Resolved-10,000+-brightgreen?style=for-the-badge)
-![Active Users](https://img.shields.io/badge/Active%20Users-50,000+-blue?style=for-the-badge)
-![Cities](https://img.shields.io/badge/Cities%20Covered-25+-orange?style=for-the-badge)
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-<details>
-<summary><b>View Full Roadmap</b></summary>
-
-### Phase 1: Core Features (Completed ✅)
-- [x] User authentication
-- [x] Issue reporting with photos
-- [x] GPS integration
-- [x] Basic tracking system
-
-### Phase 2: Enhanced Experience (In Progress 🚧)
-- [ ] AI-powered issue categorization
-- [ ] Multi-language support
-- [ ] Offline mode
-- [ ] Push notifications
-
-### Phase 3: Advanced Features (Planned 📅)
-- [ ] AR visualization of reported issues
-- [ ] Blockchain-based transparency system
-- [ ] Integration with city databases
-- [ ] Predictive analytics dashboard
-
-### Phase 4: Expansion (Future 🔮)
-- [ ] Smart city IoT integration
-- [ ] Cross-platform desktop apps
-- [ ] Open API for third-party developers
-- [ ] International expansion
-
-</details>
+### **Code of Conduct**
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
@@ -382,62 +446,33 @@ We'd love to hear your ideas! Please create an issue with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2024 Samadhan Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
 ---
 
-## 🙏 Acknowledgments
+## 👨‍💻 Contact
 
-- **Flutter Team** for the amazing framework
-- **Firebase** for backend infrastructure
-- **Our Contributors** for their valuable input
-- **Citizens** who believe in positive change
-- **You** for reading this far! 
+### **Project Team**
 
----
+**Developer Name** - [Your Name]  
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
-## 📞 Contact & Support
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](coomax17787@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KishanP07684084)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/samadhan)
-
-### 💬 Join Our Community
-Be part of the change! Join our Discord server to connect with other civic-minded individuals.
-
-</div>
+**Project Link:** [https://github.com/yourusername/fix-the-city](https://github.com/yourusername/fix-the-city)
 
 ---
 
 <div align="center">
 
-<div align="center">
+## 🌟 Star This Repository!
 
-### ⭐ Star us on GitHub — it motivates us a lot!
+If you find **Fix-The-City** useful, please consider giving it a star ⭐
 
-```
-     ██████  █████  ███    ███  █████  ██████  ██   ██  █████  ███    ██ 
-    ██      ██   ██ ████  ████ ██   ██ ██   ██ ██   ██ ██   ██ ████   ██ 
-    ███████ ███████ ██ ████ ██ ███████ ██   ██ ███████ ███████ ██ ██  ██ 
-         ██ ██   ██ ██  ██  ██ ██   ██ ██   ██ ██   ██ ██   ██ ██  ██ ██ 
-    ██████  ██   ██ ██      ██ ██   ██ ██████  ██   ██ ██   ██ ██   ████ 
-```
+### **Together, we can build smarter, safer, and more responsive communities!**
 
-**Made with ❤️ by citizens, for citizens**
+---
 
-<img src="https://img.shields.io/badge/Together_We_Can-Fix_The_City-gradient?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIxLjAyTDEyIDE3Ljc3TDUuODIgMjEuMDJMNyAxNC4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPg==" width="500">
+Made with ❤️ and ☕ by [Your Name]
 
-[Back to Top ⬆️](#-samadhan---fix-your-city-build-your-community)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
