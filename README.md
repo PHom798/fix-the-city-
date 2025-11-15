@@ -115,6 +115,23 @@ Traditional complaint submission systems are plagued with:
 - **Priority Levels:** High (Red), Medium (Orange), Low (Green)
 - **Withdraw Option:** Cancel complaints before processing
 
+---
+## 🎬 Preview
+  
+*Beautiful dialogs for better user experience*
+
+<div align="left">
+  <table>
+    <tr>
+      <td><video src="https://github.com/user-attachments/assets/e3725495-f94a-4405-86b6-603feabd7c26" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/a2efc950-3d40-469c-a1cb-1b973749c557" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/c36fab4b-feb6-41a6-86de-cea53406c93c" controls width="49%"></video></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 #### 📍 **Advanced Complaint Tracking**
 - **Full Timeline View:** Track every status update from submission to resolution
 - **Category Classification:** Potholes, cracks, open manholes, traffic lights, waste containers, stray animals
