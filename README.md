@@ -116,7 +116,7 @@ Traditional complaint submission systems are plagued with:
 - **Withdraw Option:** Cancel complaints before processing
 
 ---
-## 🎬 Preview
+## 🎬 Preview 1
   
 *Beautiful dialogs for better user experience*
 
@@ -201,6 +201,23 @@ Only verified users can submit complaints.
 - **User Feedback:** View and respond to citizen feedback
 - **Performance Monitoring:** Track resolution times and user satisfaction
 - **Quality Assurance:** Ensure timely and effective problem resolution
+
+---
+
+---
+## 🎬 Preview 2
+  
+*Beautiful dialogs for better user experience*
+
+<div align="left">
+  <table>
+    <tr>
+      <td>  <video src="https://github.com/user-attachments/assets/530c0609-c228-469b-9630-b0cd276cf17a" controls width="49%"></video></td>
+      <td><video src="https://github.com/user-attachments/assets/2fab562c-661a-4a6d-9453-dc23066beba4" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/8c9f0c41-aef7-461d-8612-ac0e1a812531" controls width="49%"></video></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
