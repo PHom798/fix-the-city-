@@ -260,6 +260,22 @@ At the heart of Fix-The-City's intelligence lies a **custom-trained YOLOv5 deep 
 
 ---
 
+## 🎬 Preview 3
+  
+*Beautiful dialogs for better user experience*
+
+<div align="left">
+  <table>
+    <tr>
+      <td><video src="https://github.com/user-attachments/assets/6b3230de-4c9d-4e43-8a27-1d7b789724bc" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/a181f864-86e9-4e3c-9353-61545729c6d5" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/fda6e5f2-9426-4991-a013-9cdd71cf6368" controls width="49%"></video></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ Technology Stack
 
 <div align="center">
