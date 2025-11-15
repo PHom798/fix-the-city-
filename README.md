@@ -118,7 +118,7 @@ Traditional complaint submission systems are plagued with:
 ---
 ## 🎬 Preview 1
   
-*Beautiful dialogs for better user experience*
+*"Experience a sleek splash screen, seamless login, and an intuitive dashboard for automated complaint categorization with smart detection and location tagging for easy submission."*
 
 <div align="left">
   <table>
@@ -207,7 +207,7 @@ Only verified users can submit complaints.
 ---
 ## 🎬 Preview 2
   
-*Beautiful dialogs for better user experience*
+*Leverage advanced AI for complaint categorization, access comprehensive complaint history, and enjoy real-time tracking with an interactive progress timeline*
 
 <div align="left">
   <table>
@@ -262,14 +262,14 @@ At the heart of Fix-The-City's intelligence lies a **custom-trained YOLOv5 deep 
 
 ## 🎬 Preview 3
   
-*Beautiful dialogs for better user experience*
+*Admin dashboard for efficient complaint management and prioritization, complemented by features like news updates and a user-friendly profile screen featuring verified badges.*
 
 <div align="left">
   <table>
     <tr>
       <td><video src="https://github.com/user-attachments/assets/6b3230de-4c9d-4e43-8a27-1d7b789724bc" controls width="49%"></video></td>
       <td>  <video src="https://github.com/user-attachments/assets/a181f864-86e9-4e3c-9353-61545729c6d5" controls width="49%"></video></td>
-      <td>  <video src="https://github.com/user-attachments/assets/fda6e5f2-9426-4991-a013-9cdd71cf6368" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/b6cd6d6a-3044-440d-856b-cdcfc84fb60c" controls width="49%"></video></td>
     </tr>
   </table>
 </div>
