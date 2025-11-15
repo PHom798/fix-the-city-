@@ -118,7 +118,7 @@ Traditional complaint submission systems are plagued with:
 ---
 ## 🎬 Preview 1
   
-*"Experience a sleek splash screen, seamless login, and an intuitive dashboard for automated complaint categorization with smart detection and location tagging for easy submission."*
+*Experience a sleek splash screen, seamless login, and an intuitive dashboard for automated complaint categorization with smart detection and location tagging for easy submission.*
 
 <div align="left">
   <table>
@@ -204,7 +204,6 @@ Only verified users can submit complaints.
 
 ---
 
----
 ## 🎬 Preview 2
   
 *Leverage advanced AI for complaint categorization, access comprehensive complaint history, and enjoy real-time tracking with an interactive progress timeline*
@@ -398,30 +397,6 @@ Complaint Submitted → Receive Ticket Number → Track Progress
 - Monitor resolution times
 - Track user engagement metrics
 - Identify problem hotspots
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### **User Interface**
-
-| Splash Screen | Login | Dashboard |
-|:---:|:---:|:---:|
-| ![Splash](https://via.placeholder.com/250x500/2196F3/FFFFFF?text=Splash+Screen) | ![Login](https://via.placeholder.com/250x500/4CAF50/FFFFFF?text=Login) | ![Dashboard](https://via.placeholder.com/250x500/FF9800/FFFFFF?text=Dashboard) |
-
-| Submit Complaint | AI Detection | Tracking |
-|:---:|:---:|:---:|
-| ![Submit](https://via.placeholder.com/250x500/9C27B0/FFFFFF?text=Submit) | ![AI](https://via.placeholder.com/250x500/F44336/FFFFFF?text=AI+Detection) | ![Track](https://via.placeholder.com/250x500/00BCD4/FFFFFF?text=Tracking) |
-
-### **Admin Interface**
-
-| Admin Dashboard | Complaint Management | User Verification |
-|:---:|:---:|:---:|
-| ![Admin](https://via.placeholder.com/250x500/3F51B5/FFFFFF?text=Admin+Dashboard) | ![Manage](https://via.placeholder.com/250x500/009688/FFFFFF?text=Manage) | ![Verify](https://via.placeholder.com/250x500/FF5722/FFFFFF?text=Verify) |
-
-</div>
 
 ---
 
