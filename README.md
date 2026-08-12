@@ -73,7 +73,7 @@
 - **Hom Bdr. Pathak** — [GitHub](https://github.com/PHom798)
 - **Rajeev Paudel** — [GitHub](https://github.com/rajeevpaudel1)
 
-  ---
+---
 
 ## 🔥 Problem Statement
 
