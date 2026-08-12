@@ -66,6 +66,15 @@
 
 ---
 
+## 👥 Team Members
+
+- **Aashutosh Sapkota** — [GitHub](https://github.com/helloaashu)
+- **Abhishek Sharma** — [GitHub](https://github.com/AbhishekSharmaPoudel)
+- **Hom Bdr. Pathak** — [GitHub](https://github.com/PHom798)
+- **Rajeev Paudel** — [GitHub](https://github.com/rajeevpaudel1)
+
+  ---
+
 ## 🔥 Problem Statement
 
 Traditional complaint submission systems are plagued with:
